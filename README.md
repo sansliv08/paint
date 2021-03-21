@@ -5,6 +5,7 @@ This project is a very basic paint app, that uses Canvas API. It allows:
 - Change canvas background color (brucket)
 - Erase draw element (eraser)
 - Change Brush/Eraser thickness (slider)
+- Clear canvas
 - Save/load/clear localStorage
 - Save as an image.
 
